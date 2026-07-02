@@ -1,0 +1,31 @@
+{
+  "": {
+    "dependencies": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/FanWatch.d",
+    "object": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/FanWatch.o",
+    "swift-dependencies": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/master.swiftdeps"
+  },
+  "/Users/michael/Downloads/FanWatch/Sources/FanWatch/ContentView.swift": {
+    "object": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/ContentView.swift.o",
+    "swiftmodule": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/ContentView.dia"
+  },
+  "/Users/michael/Downloads/FanWatch/Sources/FanWatch/FanWatchApp.swift": {
+    "object": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/FanWatchApp.swift.o",
+    "swiftmodule": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/FanWatchApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/FanWatchApp.swiftdeps",
+    "diagnostics": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/FanWatchApp.dia"
+  },
+  "/Users/michael/Downloads/FanWatch/Sources/FanWatch/SMC.swift": {
+    "object": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SMC.swift.o",
+    "swiftmodule": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SMC~partial.swiftmodule",
+    "swift-dependencies": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SMC.swiftdeps",
+    "diagnostics": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SMC.dia"
+  },
+  "/Users/michael/Downloads/FanWatch/Sources/FanWatch/SensorStore.swift": {
+    "object": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SensorStore.swift.o",
+    "swiftmodule": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SensorStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SensorStore.swiftdeps",
+    "diagnostics": "/Users/michael/Downloads/FanWatch/.build/arm64-apple-macosx/release/FanWatch.build/SensorStore.dia"
+  }
+}
